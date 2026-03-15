@@ -21,5 +21,4 @@
 ---
 
 ## 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/ryzury/ryzury/blob/output/github-contribution-grid-snake.svg)
