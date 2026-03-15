@@ -19,4 +19,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryzury&show_icons=true&theme=tokyonight)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/ryzury/count.svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+HTML+CSS+JS+projects;Learning+PHP+and+Laravel;Exploring+new+web+tech" />
